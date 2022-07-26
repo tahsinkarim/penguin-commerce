@@ -6,8 +6,8 @@
 
 #### Html and Tailwind Css
 
-##### Used [Flowbite] (https://flowbite.com/) for responsive navbar
+##### Used [Flowbite](https://flowbite.com/) for responsive navbar
 
 ![](./images/screenshot.png)
 
-## Live site: [https://tahsinkarim.github.io/penguin-commerce/] (https://tahsinkarim.github.io/penguin-commerce/)
+## Live site: [https://tahsinkarim.github.io/penguin-commerce/](https://tahsinkarim.github.io/penguin-commerce/)
